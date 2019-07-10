@@ -3,3 +3,4 @@
 * `CTRL + '+'`  Zoom-in
 * `CTRL + '-'`  Zoom-out
 * ```CTRL + SHIFT + ` ``` Terminal open
+
