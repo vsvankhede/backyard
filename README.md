@@ -1,3 +1,7 @@
+### Terminal
+* `$ lsof -i:8080` Find process occupying given port
+* `$ kill -9 $(lsof -t -i:8080)` Kill process occupying given port
+
 ### Visual Code Shortcuts
 * `CTRL + SHIFT + P`  Terminal popup
 * `CTRL + '+'`  Zoom-in
@@ -31,4 +35,5 @@ project.
 * `gcloud app deploy`: Deploy node application on Google app engine.
 
 #### Google AppEngine
+
 
